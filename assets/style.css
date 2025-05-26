@@ -1,0 +1,6 @@
+/* Mobile-friendly adjustments */
+@media (max-width: 768px) {
+    .card {
+        margin-top: 20px;
+    }
+}
