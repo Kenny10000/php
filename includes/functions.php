@@ -287,7 +287,7 @@ function send_email($to, $subject, $message) {
     $headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
 
     // Additional headers
-    $headers .= "From: SecureBank<no-reply@yourdomain.com>" . "\r\n";
+    $headers .= "From: BrightBank<no-reply@yourdomain.com>" . "\r\n";
     $headers .= "Reply-To: support@yourdomain.com" . "\r\n";
     $headers .= "X-Mailer: PHP/" . phpversion();
 

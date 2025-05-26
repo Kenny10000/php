@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SecureBank - Modern Online Banking</title>
+    <title>BrightBank - Modern Online Banking</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <style>
@@ -31,7 +31,7 @@
     <nav class="navbar navbar-expand-lg navbar-dark bg-primary sticky-top">
         <div class="container">
             <a class="navbar-brand fw-bold" href="#">
-                <i class="fas fa-piggy-bank me-2"></i>SecureBank
+                <i class="fas fa-piggy-bank me-2"></i>BrightBank
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
                 <span class="navbar-toggler-icon"></span>
@@ -69,7 +69,7 @@
     <section id="features" class="py-5 bg-light">
         <div class="container">
             <div class="text-center mb-5">
-                <h2>Why Choose SecureBank?</h2>
+                <h2>Why Choose BrightBank?</h2>
                 <p class="lead text-muted">Fast, secure, and designed for you.</p>
             </div>
             <div class="row g-4">
@@ -106,9 +106,9 @@
                     <img src="https://images.unsplash.com/photo-1554224155-6726b3ff858f?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80" alt="Banking Team" class="img-fluid bank-img">
                 </div>
                 <div class="col-lg-6">
-                    <h2>About SecureBank</h2>
+                    <h2>About BrightBank</h2>
                     <p class="lead">We’re redefining digital banking.</p>
-                    <p>Founded in 2023, SecureBank combines cutting-edge technology with personalized service. Our mission is to make financial management effortless for everyone.</p>
+                    <p>Founded in 2023, BrightBank combines cutting-edge technology with personalized service. Our mission is to make financial management effortless for everyone.</p>
                     <ul class="list-unstyled">
                         <li class="mb-2"><i class="fas fa-check text-primary me-2"></i> No hidden fees</li>
                         <li class="mb-2"><i class="fas fa-check text-primary me-2"></i> 24/7 customer support</li>
@@ -131,7 +131,7 @@
     <!-- Footer -->
     <footer class="py-4 bg-dark text-white">
         <div class="container text-center">
-            <p class="mb-0">&copy; 2023 SecureBank. All rights reserved.</p>
+            <p class="mb-0">&copy; 2023 BrightBank. All rights reserved.</p>
         </div>
     </footer>
 

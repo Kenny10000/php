@@ -9,7 +9,7 @@ if (session_status() === PHP_SESSION_NONE) {
     <div class="container">
         <!-- Brand Logo -->
         <a class="navbar-brand fw-bold" href="dashboard.php">
-            <i class="fas fa-piggy-bank me-2"></i>SecureBank
+            <i class="fas fa-piggy-bank me-2"></i>BrightBank
         </a>
 
         <!-- Mobile Toggle Button -->
